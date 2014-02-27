@@ -17,3 +17,11 @@ rerun.txt
 pickle-email-*.html
 .project
 config/initializers/secret_token.rb
+pkg/
+test/dummy/db/*.sqlite3
+test/dummy/db/*.sqlite3-journal
+test/dummy/log/*.log
+test/dummy/tmp/
+test/dummy/.sass-cache
+
+
